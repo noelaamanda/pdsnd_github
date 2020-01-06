@@ -1,15 +1,22 @@
 ### Date created
-6 jan 2020
+06th January 2020
+
 
 ### Project Title
-Project 3 
+Explore US Bikeshare data
+
 
 ### Description
-Describe what your project is about and what it does
+Explore and treat data on bike rentals for three cities for a given time. Import data and compute descriptive statistics.
 
 ### Files used
-Include the files used
+bikeshare.py
+.gitignore
+README.md
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
