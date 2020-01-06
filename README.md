@@ -5,7 +5,7 @@
 Explore US Bikeshare data
 
 ### Description
-Explore and treat data on bike rentals for three cities. Import data and compute descriptive statistics.
+Explore and treat data on bike rentals for three cities for a given time. Import data and compute descriptive statistics.
 
 ### Files used
 bikeshare.py
